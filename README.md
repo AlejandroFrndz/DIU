@@ -36,12 +36,18 @@ Miembros
 
 En primer lugar hemos seleccionado a Elena, es una persona con pocas capacidades tecnologicas pero sabe que son muy necesarias. Le gusta mucho viajar y nos puede mostrar a los problemas que los desarrolladores de la web no podríamos ver al ver su uso muy fácil.
 
-img/PersonaElena.png
+(img/PersonaElena.png)
 
+En segundo lugar, hemos creado a Shay. La característica más relevante de Shay es que es una persona con dificultades de visión (dislexia) y que además es de otro país y no habla español. Gracias a esto podremos comprobar como de preparadas están las webs, tanto en contenido como en interfaz de usuario, para poder ser empleadas por personas con dificultades similares.
+
+(img/PersonaShay.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+--------- Elena ---------------
 
+(img/MapShay.png)
+Con shay podemos ver una interacción poco común. A pesar de ser una persona joven, práticamente nativa digital que maneja sin problema la tecnología, su enfermeda hace que tenga otro tipo de dificultades y limitaciones que a menudo no son tenidas en cuenta en muchos productos/servicios/interfaces
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 

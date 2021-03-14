@@ -92,55 +92,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Shay McGregor",
+                Photo: "shay.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                goal1: "Quiere preparar un viaje a España con su padre, pero él no puede enterarse puesto que es una sorpresa",
                 touch1: "agenda",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "Uno de sus empleados ha estado varias veces en España, y le recomendó que visitarán la costa mediterránea",
+                ima1: "cartoon-speaking.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Las agencias de viaje están de capa caida, por lo que no le queda más remedio que buscar por internet",
+                touch2: "Ordenador (Buscador)",
+                feel2: "3",
+                con2: "Sabe que muchas webs no disponen de opciones para gente de sus características, pero está dispuesto a intentarlo por si mismo",
+                ima2: "cartoon-PCtyping.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Ha comprobado gran cantidad de webs, pero casi ninguna tiene opciones de accesibilidad y leer tal cantidad de información le resulta muy complicado",
+                touch3: "Ordenador (Buscador)",
+                feel3: "1",
+                con3: "Se frustra tanto consigo mismo como con las webs que visita",
+                ima3: "cartoon-PChard.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Encuentra una web sobre Cartagena, una ciudad en la costa mediterránea, que dispone de opciones de accesibilidad que le facilitan mucho la vida",
+                touch4: "Ordenador (Buscador)",
+                feel4: "4",
+                con4: "Le ha resultado muy fácil consultar la información en la web, disponbile con ayuda completamente en su idioma",
+                ima4: "cartoon-PChappy.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Decide llamar por teléfono al contacto ofrecido por la web",
+                touch5: "Móvil (Llamada)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Aunque la web estaba completamente en inglés, los trabajadores que atienden el teléfono no hablan mucho inglés. Por suerte, su hermana si sabe español y le ayuda a informarse",
+                ima5: "cartoon-phoning.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Gracias a la información obtenida, reserva y planifica el viaje",
+                touch6: "Ordenador (Booking)",
+                feel6: "5",
+                con6: "Solo le queda el paso más importante, contarle la sorpresa a su padre!",
+                ima6: "cartoon-shaking.png",
                 
                 
                 

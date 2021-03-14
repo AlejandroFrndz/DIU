@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Shay McGregor",
+				Photo: "shay.png",
+				Quote: "El ser humano es bueno por naturaleza, aunque a veces no lo parezca",
+				Age: 25,
+				Occupation: "Dueño de una empresa de Whisky",
+				Family: "Padres",
+				Location: "Edinburgh, Scotland (UK)",
+				Character: "Devolverle a su familia todo lo que ellos han dado por él",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 1 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Hacer feliz a su padre.", "Expandir su empresa.", "Visitar todos los paises del mundo.", "Realizar un voluntariado."],
+				Frustrations: ["Le gustaría no tener que depender de la gente.", "Su Dislexia.", "Decepcionar a su padre."],
+				Bio: "Nació en Escocia, lugar en el que se ha criado. De pequeño le costaba mucho estudiar, más que a los demás niños. Finalmente sus padres lo llevaron al médico y le diagnosticaron dislexia. Debido a su enfermedad, le costó mucho esfuerzo terminar sus estudios, no disponiendo de educación superior. Toda su vida su padre ha sido una figura extremadamente importante y a la que admira mucho. Hace 1 año que su padre se jubiló, dejando en manos de Shay la empresa de Whiskey que fundó. Shay le agradeció mucho este gesto pues debido a su enfermedad probablemente no es el candidato ideal para dirigir una empresa. Por tanto, ahora quiere devolverle el favor cumpliendo el sueño que siempre tuvo su padre juntos, viajar por todo el mundo",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 3 },
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Llevar a su padre de viaje, comenzando por su lugar favorito, España." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
 					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
