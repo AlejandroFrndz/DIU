@@ -46,7 +46,7 @@ En segundo lugar, hemos creado a Shay. La característica más relevante de Shay
 ----
 --------- Elena ---------------
 
-![Mapa Shay](img/MapaShay.png)
+![Mapa Shay](img/MapShay.png)
 
 Con shay podemos ver una interacción poco común. A pesar de ser una persona joven, práticamente nativa digital que maneja sin problema la tecnología, su enfermeda hace que tenga otro tipo de dificultades y limitaciones que a menudo no son tenidas en cuenta en muchos productos/servicios/interfaces
 
