@@ -34,6 +34,11 @@ Miembros
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+En primer lugar hemos seleccionado a Elena, es una persona con pocas capacidades tecnologicas pero sabe que son muy necesarias. Le gusta mucho viajar y nos puede mostrar a los problemas que los desarrolladores de la web no podríamos ver al ver su uso muy fácil.
+
+img/PersonaElena.png
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
