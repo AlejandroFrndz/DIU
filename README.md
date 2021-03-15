@@ -28,6 +28,8 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+![Persona Shay](img/Tablacomparativa.png)
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
