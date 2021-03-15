@@ -27,8 +27,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
- 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 ![Tabla Comparativa](img/Tablacomparativa.PNG)
 
 
@@ -48,6 +47,8 @@ En segundo lugar, hemos creado a Shay. La característica más relevante de Shay
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 --------- Elena ---------------
+![Mapa Elena](img/JourneyMapElena.PNG)
+
 
 ![Mapa Shay](img/MapShay.png)
 
