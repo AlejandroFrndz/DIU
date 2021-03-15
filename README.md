@@ -29,7 +29,7 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
  
-![Tabla Comparativa](img/Tablacomparativa.png)
+![Tabla Comparativa](img/Tablacomparativa.PNG)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
