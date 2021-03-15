@@ -64,7 +64,7 @@ Con shay podemos ver una interacción poco común. A pesar de ser una persona jo
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento:  ![Mapa Shay](P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
