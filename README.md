@@ -49,6 +49,8 @@ En segundo lugar, hemos creado a Shay. La característica más relevante de Shay
 --------- Elena ---------------
 ![Mapa Elena](img/JourneyMapElena.PNG)
 
+En el mapa de Elena podemos ver, que la gran dificultad ha sido en encontrar la web adecuada, y un poco el uso. Aunque la web tiene muy trabajada la accesibilidad, la usabilidad no tanto. Por otro lado puede encontrar información util como aparcamientos y planes para hacer.
+
 
 ![Mapa Shay](img/MapShay.png)
 
