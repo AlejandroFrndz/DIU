@@ -36,7 +36,7 @@ Miembros
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-En primer lugar hemos seleccionado a Elena, es una persona con pocas capacidades tecnologicas pero sabe que son muy necesarias. Le gusta mucho viajar y nos puede mostrar a los problemas que los desarrolladores de la web no podríamos ver al ver su uso muy fácil.
+En primer lugar hemos seleccionado a Elena, es una persona con pocas capacidades tecnologicas y poca experiencia con ellas, es reacia a su uso pero sabe que son muy necesarias. Le gusta mucho viajar y nos puede mostrar los problemas que los desarrolladores de la web no podríamos ver al ver su uso muy fácil.
 
 ![Persona Elena](img/PersonaElena.png)
 
@@ -47,10 +47,12 @@ En segundo lugar, hemos creado a Shay. La característica más relevante de Shay
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 --------- Elena ---------------
+
 ![Mapa Elena](img/JourneyMapElena.PNG)
 
 En el mapa de Elena podemos ver, que la gran dificultad ha sido en encontrar la web adecuada, y un poco el uso. Aunque la web tiene muy trabajada la accesibilidad, la usabilidad no tanto. Por otro lado puede encontrar información util como aparcamientos y planes para hacer.
 
+-------- Shay -------
 
 ![Mapa Shay](img/MapShay.png)
 
