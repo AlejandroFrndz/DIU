@@ -35,7 +35,7 @@ El diagrama muestra la interacción con la aplicación de un usuario que entra a
 
 * Sitemap 
 
-![Método UX](img/SiteMap.png) 
+![Método UX](img/SiteMap.jpg) 
 Sitemap de la app.
 
 * Labelling 

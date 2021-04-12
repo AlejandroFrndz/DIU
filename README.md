@@ -101,7 +101,7 @@ Hemos elegido hacer un POV
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-![Método UX](P2/img/SiteMap.png) 
+![Método UX](P2/img/SiteMap.jpg) 
 Sitemap de la app.
 
 
