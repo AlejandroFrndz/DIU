@@ -97,8 +97,8 @@ Hemos elegido hacer un POV
 ----
 ![Método UX](P2/img/Scope_Canvas.png)
 
-
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+2.b Tasks analysis 
+![Método UX](img/User_Task_Flow.png) 
 -----
 
 ![Método UX](P2/img/SiteMap.jpg) 

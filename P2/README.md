@@ -20,7 +20,6 @@ Aplicación para AR que permite ver las calles de Granada mediante una recreaci�
 * ScopeCanvas
 
 ![Método UX](img/Scope_Canvas.png)
- Scope Canvas: Visión nazarí
 
 ### TASK ANALYSIS
 
