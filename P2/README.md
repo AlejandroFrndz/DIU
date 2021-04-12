@@ -43,34 +43,34 @@ Sitemap de la app.
 ![Método UX](img/Labelling.png) 
 Labelling de la app Visión nazarí
 ### Prototipo Lo-FI Wireframe 
-Página Principal
+
 ![Home](img/PaginaPrincipal.png) 
 
-Rutas Sugeridas
+
 ![Sugerir Ruta](img/SugerirRuta.png)
 
-Mapa. En función de dónde esté el usuario y que ruta haya seleccionado o si está empleando una ruta personalizada tendría una vista diferente, que esencialmente sería un mapa
+
 ![Mapa](img/Mapa.png) 
 
-Lugares Emblemáticos
+
 ![Lugares Emblemáticos](img/LugaresEmblematicos.png) 
 
-Lugares Emblemáticos por Proximidad. En función de la localización del usuario y el lugar seleccionado se mostraría una foto y descripción u otra así como una distancia
+
 ![Lugares Emblemáticos](img/LugaresEmblematicosProx.png) 
 
-Lugares Emblemáticos por Califato. En función del lugar seleccionado así como el califato se mostrará uno u otro texto
+
 ![Lugares Emblemáticos](img/LugaresEmblematicosCalifato.png) 
 
-Modo Realidad Aumentada Se activaría en los lugares emblemáticos seleccionados y permitiría al usuario ver en realidad aumentada recreaciones 3D de los mismos
+
 ![StreetView](img/StreetView.png) 
 
-Emblemas
+
 ![Insignias](img/Insignias.png) 
 
-Opciones/Configuración
+
 ![Configuracion](img/Configuracion.png)
 
-FAQ
+
 ![FAQ](img/FAQ.png)
 ### Conclusiones  
 

@@ -115,7 +115,7 @@ Labelling de la app Visión nazarí
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Para ver las imágenes con todos los prototipos [pulse aquí] (https://github.com/AlejandroFrndz/DIU/tree/master/P2)
+Para ver las imágenes con todos los prototipos [pulse aquí](https://github.com/AlejandroFrndz/DIU/tree/master/P2)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
