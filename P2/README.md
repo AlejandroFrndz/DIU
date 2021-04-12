@@ -1,5 +1,8 @@
 ## DIU - Practica2, entregables
 
+Descripción Breve de la App
+
+Aplicación para AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
 ### Ideación 
 * Point of View 
 
@@ -11,14 +14,13 @@
 | Persona extranjera y/o con dificultades de oído o de comprensión | Poder realizar una visita guiada a su propio ritmo sin depender de otras personas | Estos usuarios pueden encontrar dificultades al realizar una visita guiada convencional, bien porque no disponen de guías en su idioma o porque su discapacidad no les permite comprender todo completamente y les da vergüenza interrumpir la dinámica de grupo para requerir una segunda explicación. Preferirían poder disponer de una forma de realizar la visita a su propio ritmo |
 
 
-Descripción Breve de la App
 
-Aplicación para AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
-![Método UX](img/Scope_Canvas.png) Scope Canvas: Visión nazarí
+![Método UX](img/Scope_Canvas.png)
+ Scope Canvas: Visión nazarí
 
 ### TASK ANALYSIS
 
@@ -27,18 +29,49 @@ Aplicación para AR que permite ver las calles de Granada mediante una recreaci�
 El diagrama muestra la interacción con la aplicación de un usuario que entra a la aplicación por primera vez. Lo primero que hace es ir a ver el menú de opciones, donde en las preguntas frecuentes se informa acerca del uso que realiza la aplicación de su localización. Después quiere probar la opción de ruta personalizada, con lo que puede experimentar la realidad aumentada de los monumentos de la ciudad. Después se interesa por el menú de lugares emblemáticos, en el que por proximidad la aplicación le recomienda el patio de los leones. No obstante, su visita a la Alhambra no es hasta mañana, por lo que retrocede y decide probar finalmente una de las rutas por la ciudad ofrecida por la aplicación. Durante su prueba de la aplicación, ha desbloqueado varias insignias por haber usado las funcionalidades proporcionadas por lo que por último decide comprobar la pestaña de emblemas, en la cuál puede visualizar sus logros desbloqueados.
 
 
-![Método UX](img/User_Task_Flow.png) User/Task Flow de la app.
+![Método UX](img/User_Task_Flow.png)
+ User/Task Flow de la app.
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
 
-
+![Método UX](img/SiteMap.png) 
+Sitemap de la app.
 
 * Labelling 
 
-![Método UX](img/Labelling.png) Labelling de la app Visión nazarí
+![Método UX](img/Labelling.png) 
+Labelling de la app Visión nazarí
 ### Prototipo Lo-FI Wireframe 
+Página Principal
+![Home](img/PaginaPrincipal.png) 
 
+Rutas Sugeridas
+![Sugerir Ruta](img/SugerirRuta.png)
 
+Mapa. En función de dónde esté el usuario y que ruta haya seleccionado o si está empleando una ruta personalizada tendría una vista diferente, que esencialmente sería un mapa
+![Mapa](img/Mapa.png) 
+
+Lugares Emblemáticos
+![Lugares Emblemáticos](img/LugaresEmblematicos.png) 
+
+Lugares Emblemáticos por Proximidad. En función de la localización del usuario y el lugar seleccionado se mostraría una foto y descripción u otra así como una distancia
+![Lugares Emblemáticos](img/LugaresEmblematicosProx.png) 
+
+Lugares Emblemáticos por Califato. En función del lugar seleccionado así como el califato se mostrará uno u otro texto
+![Lugares Emblemáticos](img/LugaresEmblematicosCalifato.png) 
+
+Modo Realidad Aumentada Se activaría en los lugares emblemáticos seleccionados y permitiría al usuario ver en realidad aumentada recreaciones 3D de los mismos
+![StreetView](img/StreetView.png) 
+
+Emblemas
+![Insignias](img/Insignias.png) 
+
+Opciones/Configuración
+![Configuracion](img/Configuracion.png)
+
+FAQ
+![FAQ](img/FAQ.png)
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+En nuestra opinión, hemos comprobado que a la hora de realizar el prototipo hemos tenido que tener muy en cuenta nuestros buyer persona, ya que no todos los usuarios saben utilizar ciertas aplicaciones moviles. Por otro lado para realizar el scope canvas hemos analizado como está el mercado en cuanto a aplicaciones institucionales que cubran las necesidades que hemos descubierto en nuestro user target. Hemos visto muy interesante el hecho de utilizar herramientas de prototipado, ya que las vemos muy utiles para otras asignaturas incluso para proyectos propios.
