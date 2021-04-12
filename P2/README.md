@@ -30,18 +30,17 @@ El diagrama muestra la interacción con la aplicación de un usuario que entra a
 
 
 ![Método UX](img/User_Task_Flow.png)
- User/Task Flow de la app.
+ 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
 
 ![Método UX](img/SiteMap.jpg) 
-Sitemap de la app.
 
 * Labelling 
 
 ![Método UX](img/Labelling.png) 
-Labelling de la app Visión nazarí
+
 ### Prototipo Lo-FI Wireframe 
 
 ![Home](img/PaginaPrincipal.png) 
