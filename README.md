@@ -5,11 +5,11 @@ Grupo: DIU2.TheThruster  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Visión Nazarí
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Aplicación para AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -98,7 +98,7 @@ Hemos elegido hacer un POV
 ![Método UX](P2/img/Scope_Canvas.png)
 
 
-![Método UX](img/Sitemap.png) 
+![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
 
 ![Método UX](P2/img/User_Task_Flow.png) 
