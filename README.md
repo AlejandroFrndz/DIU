@@ -106,8 +106,9 @@ Hemos elegido hacer un POV
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+* Sitemap 
 ![Método UX](P2/img/SiteMap.jpg) 
-
+* Labelling 
 ![Método UX](P2/img/Labelling.png) 
 
 
