@@ -96,20 +96,20 @@ Hemos elegido hacer un POV
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 ![Método UX](P2/img/Scope_Canvas.png)
- Scope Canvas: Visión nazarí
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 ![Método UX](P2/img/SiteMap.jpg) 
-Sitemap de la app.
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 ![Método UX](P2/img/Labelling.png) 
-Labelling de la app Visión nazarí
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
