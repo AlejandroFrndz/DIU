@@ -97,16 +97,16 @@ Hemos elegido hacer un POV
 ----
 ![Método UX](P2/img/Scope_Canvas.png)
 
-2.b Tasks analysis 
-![Método UX](img/User_Task_Flow.png) 
+
+![Método UX](img/Sitemap.png) 
 -----
 
-![Método UX](P2/img/SiteMap.jpg) 
-
+![Método UX](P2/img/User_Task_Flow.png) 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+![Método UX](P2/img/SiteMap.jpg) 
 
 ![Método UX](P2/img/Labelling.png) 
 
