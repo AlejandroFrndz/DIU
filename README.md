@@ -11,7 +11,8 @@ Descripción:
 
 Aplicación AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
 
-Logotipo: 
+Logotipo:  
+  
 ![Logotipo Visión Nazarí](P3/img/logo-fondo.png)
 
 Miembros
