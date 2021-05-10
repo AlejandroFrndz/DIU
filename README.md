@@ -187,8 +187,6 @@ Tras una revisión de los patrones a nuestra disposición hemos decidido emplear
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 Para esta tarea hemos utilizado JustInMind, es una herramienta que permite realizar un Mockup movil en el que se pueden enlazar las diferentes pantallas y botones. En el video a continuación se muestra la simulación del prototipo realizado mostrando una supuesta interacción de un usuario con la aplicación
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
