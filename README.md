@@ -12,7 +12,7 @@ Descripción:
 Aplicación AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
 
 Logotipo:  
-  
+
 ![Logotipo Visión Nazarí](P3/img/logo-fondo.png)
 
 Miembros
@@ -146,7 +146,9 @@ Hemos seleccionado estos colores por diferentes motivos. En primer lugar, los co
 Con respecto a las fuentes, hemos seleccionado principalmente 2.
 Por un lado tenemos la Khodijah. Esta es la tipografía empleada en el logotipo de la aplicación. La hemos empleado ya que tiene un aspecto que recuerda inmediatamente a la cultura árabe. Sin embargo, es una tipografía demasiado elaborada como para emplearla consistentemente en toda la aplicación sin pecar en legibilidad y accesibilidad. Por esta razón, para el cuerpo de la aplicación hemos decidido emplear una fuente más tradicional como es la Montserrat que es mucho más legible y, además, al estar incluida en Google Fonts es extremadamente portable.
 
-![Montserrat](P3/img/Montserrat.png) Montserrat
+Montserrat  
+
+![Montserrat](P3/img/Montserrat.png)
 
 ![Imágenes Inspiradoras](P3/img/cerveza.jpg)
 ![Imágenes Inspiradoras](P3/img/desierto.jpg)
