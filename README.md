@@ -124,30 +124,72 @@ Para ver las imágenes con todos los prototipos [pulse aquí](https://github.com
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+Logotipo:
 
+![Logotipo Visión Nazarí](P3/img/logotipo.png)
+
+Para su creación, hemos empleado la herramienta online https://www.photopea.com/ La resolución empleada para la imagen aquí introducida es de 512x80, pero si fuese necesario podría generarse a diferentes resoluciones. La imagen empelada podría perfectamente usarse como cabecera de Twitter o algún otro uso similar pues está dispuesta en horizontal. No obstante, para por ejemplo una campaña en Instagram (stories por ejemplo) se requerirñia generar una imagen con un layout en vertical para adecuarla mejor al formato de la app.
+
+A continuación se recogen varios mockups que muestran como quedaría el logo usado en diferentes productos:
+
+![Mockup](P3/img/cuaderno-logo.png)
+![Mockup](P3/img/macarilla-logo.png)
+![Mockup](P3/img/tablet-logo.png)
+
+En cuanto a colores, la paleta a emplear en la aplicación así como en el resto de elementos relacionados con la marca Visión Nazarí es esta
+
+![Paleta de Colores](P3/img/paleta.png)
+
+Hemos seleccionado estos colores por diferentes motivos. En primer lugar, los colores con tonalidades rojizas como son el segundo, cuarto y último en la imagen tienen el objetivo de evocar pensamientos relacionados con la arena, los desiertos y las construcciones árabes que en muchas ocasiones empleaban estas tonalidades. Con el color azul se quiere recoradar el agua, elemento extremadamente relevante y central tanto en la cultura como en la arquitectura arábica y nazarí. También tenemos el negro, que es el color asociado con la guerra en la cultura árabe, para no olvidar también el fuerte componente bélico que acompaña al reino nazarí. Por último tenemos el blanco que sería el color del estandarte de Qusay, antepasado de Mahoma, y se considera el color de los Omeyas de Damasco y de los almohades.
+
+Con respecto a las fuentes, hemos seleccionado principalmente 2.
+Por un lado tenemos la Khodijah. Esta es la tipografía empleada en el logotipo de la aplicación. La hemos empleado ya que tiene un aspecto que recuerda inmediatamente a la cultura árabe. Sin embargo, es una tipografía demasiado elaborada como para emplearla consistentemente en toda la aplicación sin pecar en legibilidad y accesibilidad. Por esta razón, para el cuerpo de la aplicación hemos decidido emplear una fuente más tradicional como es la Montserrat que es mucho más legible y, además, al estar incluida en Google Fonts es extremadamente portable.
+
+![Montserrat](P3/img/Montserrat.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+![Imágenes Inspiradoras](P3/img/cerveza.jpg)
+![Imágenes Inspiradoras](P3/img/desierto.jpg)
+![Imágenes Inspiradoras](P3/img/plantas.jpg)
+
+
+En cuanto a las imágenes inspiradoras hemos seleccionado imágenes en las que los colores y formas son muy evocadoras, nos inspiran y expresan ciertos sentimientos que experimentamos al utilizar la aplicación. 
+
+Utiizamos una cerveza alhambra , ya que es algo muy caracteristico de la ciudad, y que muestra en la que sus curvas y colores la celosía granadina en la que se inspira el diseño de la aplicación. Por otro lado tenemos el desierto y las plantas, pero con unas formas en las imágenes que nos hacen recordar a los 
+
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
+
+En primer lugar en la landing page hemos puesto una frase motivadora, en la que seguidamente se puede ver un CTA para incentivar al usuario a que clicque en el y se pueda descargar nuestra app. Después hemos puesto un subtitulo, para motivar más aún al usuario.
+
+Acto seguido hemos seguido una estructura en 2 columnas en las que varía entre foto y parrafo con CTA. En ellos se pretende mostrar todas las ventajas y virtudes que tiene nuestra aplicación para convencer al usuario a que se la descargue y finalmente unos iconos para destacar grandes funcionalidades/virtudes que tiene la app.
+
+Como se puede apreciar la landing sigue un estilo acorde a la aplicación, utilizando los colores corporativos y fotos relacionadas con la estetica nazarí.
+
+Hemos puesto un menú en lo alto de la página, ya que es una estructura web con la que la mayoría de usuarios esta familiarizado y un footer con la información de contacto y redes sociales.
 ----
 
-
->>> Plantear Landing Page 
+![Landing Page](P3/img/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Tras una revisión de los patrones a nuestra disposición hemos decidido emplear los siguientes patrones en nuestra aplicación
+
+1- *Pull to Refresh* --> En las pantallas de los lugares emblemáticos sugeridos al usuario, usaremos este patrón para que estos puedan recargar la página conforme se mueven por la ciudad, de forma que la sugerencias vuelvan a cambiarse
+2- *Gallery* --> En las pantallas de lugares emblemáticos, se muestran imágenes de los mismos. Usaremos este patrón para permitir que el usuario pueda ir cambiando el lugar que observa, de forma que se haga bastante hincapié en la imágen que se muestra del sitio, para así captar su atención
+3- *Paginación* --> En la página de insignias, usaremos este patrón para mostrar las diferentes hojas con insignias que se hayan desbloqueado con el uso de la app
+4- *FAQ* --> Usaremos este patrón para agrupas las preguntas más frecuentes de los usuarios en el apartado de configuración y ayuda, de forma que estén bien categorizadas y sean facilmente accesibles desde la propia App
+5- *Vertical Dropdown* --> En la elección de los idiomas para la aplicación, usaremos este patrón para desplegar un menú con los diferentes idiomas a elegir
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+Para esta tarea hemos utilizado JustInMind, es una herramienta que permite realizar un Mockup movil en el que se pueden enlazar las diferentes pantallas y botones. En el video a continuación se muestra la simulación del prototipo realizado mostrando una supuesta interacción de un usuario con la aplicación
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
