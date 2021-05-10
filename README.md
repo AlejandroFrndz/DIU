@@ -183,6 +183,11 @@ Tras una revisión de los patrones a nuestra disposición hemos decidido emplear
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+Con respecto a la práctica anterior, hemos decidido rediseñar algunos de los iconos empleados anteriormente en el prototipado. A continuación se muestra una tabla que recoge cúales son los iconos cambiados, y su rediseño  
+
+
+![Iconos rediseñados](P3/img/redesing-iconos.png)
+
 Para esta tarea hemos utilizado JustInMind, es una herramienta que permite realizar un Mockup movil en el que se pueden enlazar las diferentes pantallas y botones. En el video a continuación se muestra la simulación del prototipo realizado mostrando una supuesta interacción de un usuario con la aplicación
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
