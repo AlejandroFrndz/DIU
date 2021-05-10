@@ -9,14 +9,14 @@ Visión Nazarí
 
 Descripción: 
 
-Aplicación para AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
+Aplicación AR que permite ver las calles de Granada mediante una recreación en 3D de su supuesto aspecto durante la época nazarí en sus diferentes califatos y con la opción de seleccionar el nivel de profundidad de las explicaciones y descripciones. Incluirá las diferentes rutas que seguían los ciudadanos de la época y conforme vas caminando se podrá visualizar toda la arquitectura y creatividades de la cultura nazarí.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logotipo Visión Nazarí](P3/img/logo-fondo.png)
 
 Miembros
- * :bust_in_silhouette:  Escalona García, Alejandro     :octocat:    @AlejandroEscalona
- * :bust_in_silhouette:  Fernández Alcaide, Alejandro     :octocat:  @AlejandroFndz
+ * :bust_in_silhouette:  Escalona García, Alejandro     :octocat:    [@AlejandroEscalona](https://github.com/AlejandroEscalona)
+ * :bust_in_silhouette:  Fernández Alcaide, Alejandro     :octocat:  [@AlejandroFrndz](https://github.com/AlejandroFrndz)
 
 ----- 
 
