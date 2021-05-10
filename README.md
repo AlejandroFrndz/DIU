@@ -133,7 +133,7 @@ Para su creación, hemos empleado la herramienta online https://www.photopea.com
 A continuación se recogen varios mockups que muestran como quedaría el logo usado en diferentes productos:
 
 ![Mockup](P3/img/cuaderno-logo.png)
-![Mockup](P3/img/macarilla-logo.png)
+![Mockup](P3/img/mascarilla-logo.png)
 ![Mockup](P3/img/tablet-logo.png)
 
 En cuanto a colores, la paleta a emplear en la aplicación así como en el resto de elementos relacionados con la marca Visión Nazarí es esta
@@ -170,7 +170,7 @@ Acto seguido hemos seguido una estructura en 2 columnas en las que varía entre 
 Como se puede apreciar la landing sigue un estilo acorde a la aplicación, utilizando los colores corporativos y fotos relacionadas con la estetica nazarí.
 
 Hemos puesto un menú en lo alto de la página, ya que es una estructura web con la que la mayoría de usuarios esta familiarizado y un footer con la información de contacto y redes sociales.
-----
+
 
 ![Landing Page](P3/img/LandingPage.png)
 
@@ -180,10 +180,10 @@ Hemos puesto un menú en lo alto de la página, ya que es una estructura web con
 Tras una revisión de los patrones a nuestra disposición hemos decidido emplear los siguientes patrones en nuestra aplicación
 
 1- *Pull to Refresh* --> En las pantallas de los lugares emblemáticos sugeridos al usuario, usaremos este patrón para que estos puedan recargar la página conforme se mueven por la ciudad, de forma que la sugerencias vuelvan a cambiarse
-2- *Gallery* --> En las pantallas de lugares emblemáticos, se muestran imágenes de los mismos. Usaremos este patrón para permitir que el usuario pueda ir cambiando el lugar que observa, de forma que se haga bastante hincapié en la imágen que se muestra del sitio, para así captar su atención
-3- *Paginación* --> En la página de insignias, usaremos este patrón para mostrar las diferentes hojas con insignias que se hayan desbloqueado con el uso de la app
-4- *FAQ* --> Usaremos este patrón para agrupas las preguntas más frecuentes de los usuarios en el apartado de configuración y ayuda, de forma que estén bien categorizadas y sean facilmente accesibles desde la propia App
-5- *Vertical Dropdown* --> En la elección de los idiomas para la aplicación, usaremos este patrón para desplegar un menú con los diferentes idiomas a elegir
+2- *Gallery* --> En las pantallas de lugares emblemáticos, se muestran imágenes de los mismos. Usaremos este patrón para permitir que el usuario pueda ir cambiando el lugar que observa, de forma que se haga bastante hincapié en la imágen que se muestra del sitio, para así captar su atención  
+3- *Paginación* --> En la página de insignias, usaremos este patrón para mostrar las diferentes hojas con insignias que se hayan desbloqueado con el uso de la app  
+4- *FAQ* --> Usaremos este patrón para agrupas las preguntas más frecuentes de los usuarios en el apartado de configuración y ayuda, de forma que estén bien categorizadas y sean facilmente accesibles desde la propia App  
+5- *Vertical Dropdown* --> En la elección de los idiomas para la aplicación, usaremos este patrón para desplegar un menú con los diferentes idiomas a elegir  
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
