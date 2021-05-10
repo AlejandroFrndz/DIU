@@ -126,7 +126,7 @@ Para ver las imágenes con todos los prototipos [pulse aquí](https://github.com
 -----
 Logotipo:
 
-![Logotipo Visión Nazarí](P3/img/logotipo.png)
+![Logotipo Visión Nazarí](P3/img/logo-fondo.png)
 
 Para su creación, hemos empleado la herramienta online https://www.photopea.com/ La resolución empleada para la imagen aquí introducida es de 512x80, pero si fuese necesario podría generarse a diferentes resoluciones. La imagen empelada podría perfectamente usarse como cabecera de Twitter o algún otro uso similar pues está dispuesta en horizontal. No obstante, para por ejemplo una campaña en Instagram (stories por ejemplo) se requerirñia generar una imagen con un layout en vertical para adecuarla mejor al formato de la app.
 
@@ -145,11 +145,7 @@ Hemos seleccionado estos colores por diferentes motivos. En primer lugar, los co
 Con respecto a las fuentes, hemos seleccionado principalmente 2.
 Por un lado tenemos la Khodijah. Esta es la tipografía empleada en el logotipo de la aplicación. La hemos empleado ya que tiene un aspecto que recuerda inmediatamente a la cultura árabe. Sin embargo, es una tipografía demasiado elaborada como para emplearla consistentemente en toda la aplicación sin pecar en legibilidad y accesibilidad. Por esta razón, para el cuerpo de la aplicación hemos decidido emplear una fuente más tradicional como es la Montserrat que es mucho más legible y, además, al estar incluida en Google Fonts es extremadamente portable.
 
-![Montserrat](P3/img/Montserrat.png)
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Montserrat](P3/img/Montserrat.png) Montserrat
 
 ![Imágenes Inspiradoras](P3/img/cerveza.jpg)
 ![Imágenes Inspiradoras](P3/img/desierto.jpg)
