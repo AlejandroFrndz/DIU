@@ -195,10 +195,8 @@ Para esta tarea hemos utilizado JustInMind, es una herramienta que permite reali
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
+Video de la Aplicación: https://www.youtube.com/watch?v=SoL-PkdvxWI
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
