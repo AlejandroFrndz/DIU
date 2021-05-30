@@ -231,7 +231,7 @@ En general la aplicación Mira2 de nuestros compañeros está bien. Obtienen una
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Enlace al PDF completo: [PDF-usability-report](P4/P4_UsabReport_DIU3.AfterWork_doneby_DIU2_TheThruster.pdf)
+Enlace al PDF completo: [PDF-usability-report](https://github.com/AlejandroFrndz/DIU/blob/master/P4/P4_UsabReport_DIU3.AftwerWork_doneby_DIU2_TheThruster.pdf)
 
 Como conclusión comentar que en líneas generales la aplicación no tiene una mala usabilidad, pero sí que tiene varios aspectos a mejorar.
 
