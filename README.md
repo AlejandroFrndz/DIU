@@ -213,9 +213,6 @@ Repositorio: https://github.com/VictorRubia/DIU21
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Lucia         | M / 52   | Fotógrafa   | Media       | Extrovertida | Móvil      | A 
@@ -234,8 +231,7 @@ En general la aplicación Mira2 de nuestros compañeros está bien. Obtienen una
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-
-Enlace al PDF completo: [PDF-usability-report](P4/P4_UsabReport_DIU·.AfterWork_doneby_DIU2_TheThruster.pdf)
+Enlace al PDF completo: [PDF-usability-report](P4/P4_UsabReport_DIU3.AfterWork_doneby_DIU2_TheThruster.pdf)
 
 Como conclusión comentar que en líneas generales la aplicación no tiene una mala usabilidad, pero sí que tiene varios aspectos a mejorar.
 
