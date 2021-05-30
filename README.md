@@ -205,8 +205,9 @@ Video de la Aplicación: https://www.youtube.com/watch?v=SoL-PkdvxWI
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+El caso que vamos a analizar trata de una aplicación llamada Mira2 que su principal funcionalidad es la de facilitar rutas por los miradores de Granada a los usuarios que la usan. Pero además hay diferentes tipos de rutas, para realizarlas con amigos, con pareja, según la distancia a recorrer y mucho más.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Repositorio: https://github.com/VictorRubia/DIU21
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -217,63 +218,35 @@ Video de la Aplicación: https://www.youtube.com/watch?v=SoL-PkdvxWI
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Lucia         | M / 52   | Fotógrafa   | Media       | Extrovertida | Móvil      | A 
+| Benjamin      | H / 32   | Camarero    | Media       | Tristón      | Móvil      | A 
+| Jenny         | M / 26   | Estudiante  | Medi        | Irascible    | Móvil      | B 
+| Antonio José  | H / 72   | Jubilado    | Baja        | Cansado      | Móvil      | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+![Captura Cuestionarios SUS](P4/CuestionariosSUS.png)
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+En general la aplicación Mira2 de nuestros compañeros está bien. Obtienen una puntuación de 70 para ambos usuarios, incluso para Antonio José que por sus características de edad y experiencia TIC baja puede ser un usuario dificil de contentar por lo que creemos que igualmente sería una aplicación que la gente podría usar de forma asidua sin encontrar demasiados conflictos, aunque como en todo siempre hay margen de mejora
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
 
+Enlace al PDF completo: [PDF-usability-report](P4/P4_UsabReport_DIU·.AfterWork_doneby_DIU2_TheThruster.pdf)
 
+Como conclusión comentar que en líneas generales la aplicación no tiene una mala usabilidad, pero sí que tiene varios aspectos a mejorar.
 
->>> Valoración personal 
+Los más destacables son que le falta coherencia entre el logo de la landing page y la aplicación, el hecho de que la aplicación esté muy saturada de elementos en la mayor parte de páginas. Este último hecho es un ítem muy importante en cuanto a la usabilidad ya que dificulta mucho la navegación por la app y puede producir la llamada “parálisis por análisis” que sucede cuando el usuario no se decide con qué hacer al tener tanta información y opciones a elegir y finalmente no selecciona ninguna.
 
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
+No obstante, quitando dichos fallos puntuales opinamos que los compañeros han realizado un buen trabajo con el prototipo realizado y los fallos encontrados no son demasiado graves y si fáciles de solventar
 
 ## Conclusión final / Valoración de las prácticas
 
+En general, el proceso de realizar las prácticas de esta asignatura nos ha parecido intersesante y entretenido. Aunque por supuesto tienen bastante trabajo, sobretodo P2 y P3, las tareas a realizar son completamente diferentes a lo que estamos acostumbrados a realizar en la carrera por lo que se hacen bastante amenas de completar
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Las prácticas al ser tan variadas y recoger muchos aspectos nos han parecido muy utiles y versatiles, ya que hemos tenido que indagar e investigar en los diferentes aspectos que recoge el diseño de interfaces, como la usabilidad, la accesibilidad...etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Por finalizar tenemos una visión muy positiva de las prácticas de esta asignatura. Creemos que hemos aprendido bastantes conceptos muy útiles para el diseño de aplicaciones software las cúales muy probablemente necesitares y usaremos a lo largo de nuestra vida laboral. Además, estamos bastante contentos con el prototipo de aplicación móvil que hecho a lo largo del cuatrimestre
